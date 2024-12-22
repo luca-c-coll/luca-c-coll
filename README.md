@@ -1,4 +1,4 @@
-- Hi, I’m @luca-c-coll
+- Hey, I’m @luca-c-coll
 - I’m interested in IT, AI, ML, and cloud.  
 - I’m currently learning and developing skills in programming, data base management, machine learning, etc. 
 - I’m looking to collaborate on projects relating to software development, web development, and AI integration. 
